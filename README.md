@@ -8,8 +8,8 @@
 <sub>*Technologist in Systems Analysis and Development* at Data Science Student</sub>
 <div>
 <a href="https://github.com/danicadao">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicadao&layout=compact&langs_count=7&theme=algolia"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=danicadao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicadao&layout=compact&langs_count=7&theme=algolia"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=danicadao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
 ## About Me
